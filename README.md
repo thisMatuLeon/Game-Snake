@@ -1,1 +1,1 @@
-Este es mi primer juego diseñado en editor de codigo "Visual Studio Code".
+Este es mi primer juego diseñado en el editor de codigo "Visual Studio Code". 
